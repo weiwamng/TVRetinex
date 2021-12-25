@@ -1,6 +1,10 @@
 
 %TV Retinex
-%By Wang Wei
+
+%Michael K. Ng and Wei Wang, A Total Variation Model for Retinex, SIAM
+%Journal on Imaging Sciences.
+
+%By Wei Wang
 
 clear all
 
